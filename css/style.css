@@ -503,7 +503,7 @@ body {
     background: linear-gradient(135deg, #FFEDD5 0%, #FED7AA 30%, #FDE68A 60%, #FEF3C7 100%);
     border-right: 6px solid #F97316;
     margin-top: 100px;
-    padding-top: 120px;
+    padding-top: 140px;
     box-shadow: 0 20px 60px rgba(249, 115, 22, 0.2);
 }
 
@@ -1297,7 +1297,7 @@ body {
     
     .card-sirdab {
         margin-top: 80px;
-        padding-top: 100px;
+        padding-top: 110px;
     }
     
     .experience-title {
