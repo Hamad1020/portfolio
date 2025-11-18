@@ -502,18 +502,18 @@ body {
 .card-sirdab {
     background: linear-gradient(135deg, #FFEDD5 0%, #FED7AA 30%, #FDE68A 60%, #FEF3C7 100%);
     border-right: 6px solid #F97316;
-    margin-top: 80px;
-    padding-top: 100px;
+    margin-top: 100px;
+    padding-top: 120px;
     box-shadow: 0 20px 60px rgba(249, 115, 22, 0.2);
 }
 
 .yc-badge {
     position: absolute;
-    top: -36px;
+    top: -40px;
     left: 50%;
     transform: translateX(-50%);
     background: linear-gradient(135deg, #F97316, #DC2626);
-    padding: 24px 56px;
+    padding: 22px 52px;
     border-radius: 60px;
     box-shadow: 0 20px 60px rgba(249, 115, 22, 0.5);
     display: flex;
@@ -521,6 +521,7 @@ body {
     gap: 16px;
     border: 5px solid var(--white);
     animation: badgePulse 3s ease-in-out infinite;
+    z-index: 10;
 }
 
 @keyframes badgePulse {
@@ -1295,8 +1296,8 @@ body {
     }
     
     .card-sirdab {
-        margin-top: 60px;
-        padding-top: 80px;
+        margin-top: 80px;
+        padding-top: 100px;
     }
     
     .experience-title {
@@ -1312,16 +1313,17 @@ body {
     }
     
     .yc-badge {
-        padding: 12px 24px;
-        gap: 8px;
+        padding: 16px 32px;
+        gap: 12px;
+        top: -35px;
     }
     
     .yc-star {
-        font-size: 28px;
+        font-size: 32px;
     }
     
     .yc-text {
-        font-size: 18px;
+        font-size: 20px;
     }
     
     .sirdab-title {
