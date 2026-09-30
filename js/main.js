@@ -168,3 +168,4 @@ console.log('%c مرحباً! 👋', 'font-size: 24px; font-weight: bold; color:
 console.log('%c هذا الموقع صُنع بـ ❤️ لمحمد يوسف الأحيدب', 'font-size: 16px; color: #C9A961;');
 console.log('%c 🇸🇦 Made in Riyadh, Saudi Arabia', 'font-size: 14px; color: #6B7280;');
 
+
